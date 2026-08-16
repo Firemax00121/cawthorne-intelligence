@@ -1,0 +1,9 @@
+{
+  "name": "Cawthorne Intelligence",
+  "short_name": "Cawthorne",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06080b",
+  "theme_color": "#06080b",
+  "description": "Independent intelligence on Cawthorne crude, Nigerian light-sweet crude and benchmark research."
+}
