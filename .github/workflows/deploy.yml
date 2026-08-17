@@ -5,6 +5,8 @@ on:
     branches:
       - main
   workflow_dispatch:
+  schedule:
+    - cron: '10 6 * * *'
 
 permissions:
   contents: read
@@ -24,12 +26,35 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+
+      - name: Stamp current terminal date and time
+        shell: bash
+        run: |
+          CURRENT_DATE=$(TZ=America/Chicago date '+%d %b %Y' | tr '[:lower:]' '[:upper:]')
+          CURRENT_UTC=$(TZ=UTC date '+%H:%M UTC')
+          python3 - <<'PY'
+          from pathlib import Path
+          import os, re
+          p = Path('index.html')
+          s = p.read_text(encoding='utf-8')
+          current_date = os.environ['CURRENT_DATE']
+          current_utc = os.environ['CURRENT_UTC']
+          s = re.sub(r'<span>\d{2} [A-Z]{3} \d{4}</span><span>\d{2}:\d{2} UTC</span>',
+                     f'<span>{current_date}</span><span>{current_utc}</span>', s, count=1)
+          p.write_text(s, encoding='utf-8')
+          PY
+        env:
+          CURRENT_DATE: ${{ env.CURRENT_DATE }}
+          CURRENT_UTC: ${{ env.CURRENT_UTC }}
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
+
       - name: Upload website
         uses: actions/upload-pages-artifact@v4
         with:
           path: '.'
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
