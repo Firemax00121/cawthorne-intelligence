@@ -27,20 +27,53 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Stamp current terminal date and time
+      - name: Stamp current terminal date and verified Brent reference
         shell: bash
         run: |
           export CURRENT_DATE=$(TZ=America/Chicago date '+%d %b %Y' | tr '[:lower:]' '[:upper:]')
           export CURRENT_UTC=$(TZ=UTC date '+%H:%M UTC')
           python3 - <<'PY'
           from pathlib import Path
-          import os, re
+          import os, re, json
+
           p = Path('index.html')
           s = p.read_text(encoding='utf-8')
+
+          # Keep the terminal clock current on every deployment.
           current_date = os.environ['CURRENT_DATE']
           current_utc = os.environ['CURRENT_UTC']
-          s = re.sub(r'<span>\d{2} [A-Z]{3} \d{4}</span><span>\d{2}:\d{2} UTC</span>',
-                     f'<span>{current_date}</span><span>{current_utc}</span>', s, count=1)
+          s = re.sub(
+              r'<span>\d{2} [A-Z]{3} \d{4}</span><span>\d{2}:\d{2} UTC</span>',
+              f'<span>{current_date}</span><span>{current_utc}</span>',
+              s,
+              count=1,
+          )
+
+          # Inject only the latest verified Brent observation. All other
+          # visible terminal content remains exactly as stored in index.html.
+          md = Path('market-data.json')
+          if md.exists():
+              data = json.loads(md.read_text(encoding='utf-8'))
+              brent = data.get('brent', {})
+              price = str(brent.get('price', '')).strip()
+              verified_date = str(brent.get('verified_date', '')).strip().upper()
+              source_label = str(brent.get('source_label', 'Verified public source')).strip()
+              status_label = str(brent.get('status_label', 'OBSERVED')).strip().upper()
+              if price and verified_date:
+                  replacement = (
+                      f'<div class="tick"><div class="k">BRENT · LAST VERIFIED {verified_date}</div>'
+                      f'<div class="v">${price}</div><div class="sub"><span>{source_label}</span>'
+                      f'<span class="tag observed">{status_label}</span></div></div>'
+                  )
+                  s, n = re.subn(
+                      r'<div class="tick"><div class="k">BRENT · LAST VERIFIED[^<]*</div><div class="v">\$[^<]+</div><div class="sub"><span>[^<]*</span><span[^>]*>[^<]*</span></div></div>',
+                      replacement,
+                      s,
+                      count=1,
+                  )
+                  if n != 1:
+                      raise SystemExit('Brent ticker injection failed: expected exactly one matching ticker.')
+
           p.write_text(s, encoding='utf-8')
           PY
 
