@@ -1,9 +1,9 @@
 {
   "brent": {
-    "price": "88.58",
+    "price": "90.87",
     "verified_date": "17 AUG",
-    "source_label": "Reuters observed",
+    "source_label": "Reuters settlement",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-08-17T17:32:00Z"
+    "refreshed_at_utc": "2026-08-17T22:08:22Z"
   }
 }
