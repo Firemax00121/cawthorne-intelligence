@@ -39,7 +39,6 @@ jobs:
           p = Path('index.html')
           s = p.read_text(encoding='utf-8')
 
-          # Keep the terminal clock current on every deployment.
           current_date = os.environ['CURRENT_DATE']
           current_utc = os.environ['CURRENT_UTC']
           s = re.sub(
@@ -49,8 +48,6 @@ jobs:
               count=1,
           )
 
-          # Inject only the latest verified Brent observation. All other
-          # visible terminal content remains exactly as stored in index.html.
           md = Path('market-data.json')
           if md.exists():
               data = json.loads(md.read_text(encoding='utf-8'))
@@ -61,18 +58,38 @@ jobs:
               status_label = str(brent.get('status_label', 'OBSERVED')).strip().upper()
               if price and verified_date:
                   replacement = (
-                      f'<div class="tick"><div class="k">BRENT · LAST VERIFIED {verified_date}</div>'
+                      f'<div class="tick" id="brentTicker"><div class="k">BRENT · LAST VERIFIED {verified_date}</div>'
                       f'<div class="v">${price}</div><div class="sub"><span>{source_label}</span>'
                       f'<span class="tag observed">{status_label}</span></div></div>'
                   )
                   s, n = re.subn(
-                      r'<div class="tick"><div class="k">BRENT · LAST VERIFIED[^<]*</div><div class="v">\$[^<]+</div><div class="sub"><span>[^<]*</span><span[^>]*>[^<]*</span></div></div>',
+                      r'<div class="tick"(?: id="brentTicker")?><div class="k">BRENT · LAST VERIFIED[^<]*</div><div class="v">\$[^<]+</div><div class="sub"><span>[^<]*</span><span[^>]*>[^<]*</span></div></div>',
                       replacement,
                       s,
                       count=1,
                   )
                   if n != 1:
                       raise SystemExit('Brent ticker injection failed: expected exactly one matching ticker.')
+
+          live_script = '''<script>
+          (function(){
+            fetch('/market-data.json?v=' + Date.now(), {cache:'no-store'})
+              .then(function(r){ if(!r.ok) throw new Error('market data unavailable'); return r.json(); })
+              .then(function(data){
+                var b = data && data.brent;
+                var t = document.getElementById('brentTicker');
+                if(!b || !t || !b.price || !b.verified_date) return;
+                t.querySelector('.k').textContent = 'BRENT · LAST VERIFIED ' + String(b.verified_date).toUpperCase();
+                t.querySelector('.v').textContent = '$' + String(b.price);
+                var spans = t.querySelectorAll('.sub span');
+                if(spans[0]) spans[0].textContent = b.source_label || 'Verified public source';
+                if(spans[1]) spans[1].textContent = (b.status_label || 'OBSERVED').toUpperCase();
+              })
+              .catch(function(){});
+          })();
+          </script>'''
+          if 'market-data.json?v=' not in s:
+              s = s.replace('</body>', live_script + '\n</body>', 1)
 
           p.write_text(s, encoding='utf-8')
           PY
