@@ -1,9 +1,25 @@
 {
   "brent": {
-    "price": "90.87",
-    "verified_date": "17 AUG",
-    "source_label": "Reuters settlement",
+    "price": "91.14",
+    "verified_date": "18 AUG",
+    "source_label": "Reuters observed",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-08-17T22:08:22Z"
+    "refreshed_at_utc": "2026-08-18T02:19:46Z"
+  },
+  "cawthorne_tender": {
+    "seller": "NNPC",
+    "size_barrels": 950000,
+    "load_window": "21–22 SEP 2026",
+    "basis": "FOB",
+    "source_label": "Reuters",
+    "verified_date": "03 AUG 2026"
+  },
+  "cawthorne_launch_cargo": {
+    "size_barrels": 950000,
+    "destination": "Netherlands",
+    "export_system": "Cawthorne FSO",
+    "asset": "OML 18",
+    "source_label": "NNPC Ltd.",
+    "verified_date": "08 APR 2026"
   }
 }
