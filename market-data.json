@@ -1,10 +1,10 @@
 {
   "brent": {
-    "price": "90.97",
+    "price": "90.45",
     "verified_date": "31 AUG",
     "source_label": "Reuters observed",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-08-31T11:20:00Z"
+    "refreshed_at_utc": "2026-08-31T13:06:00Z"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
