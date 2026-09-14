@@ -1,10 +1,10 @@
 {
   "brent": {
-    "price": "108.83",
+    "price": "109.29",
     "verified_date": "14 SEP",
-    "source_label": "Reuters 13:45 GMT",
+    "source_label": "Reuters 14:15 GMT",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-09-14T13:45:00Z"
+    "refreshed_at_utc": "2026-09-14T14:15:00Z"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
@@ -22,5 +22,5 @@
     "source_label": "NNPC Ltd.",
     "verified_date": "08 APR 2026"
   },
-  "deployment_refresh_at_utc": "2026-09-14T13:45:00Z"
+  "deployment_refresh_at_utc": "2026-09-14T14:15:00Z"
 }
