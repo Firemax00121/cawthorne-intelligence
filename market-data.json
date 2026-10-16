@@ -1,10 +1,10 @@
 {
   "brent": {
-    "price": "105.40",
+    "price": "105.42",
     "verified_date": "16 OCT",
-    "source_label": "Times of India",
+    "source_label": "Reuters",
     "status_label": "REPORTED",
-    "refreshed_at_utc": null,
+    "refreshed_at_utc": "2026-10-16T06:23:00Z",
     "observation_date_utc": "2026-10-16",
     "observation_type": "reported_quote"
   },
