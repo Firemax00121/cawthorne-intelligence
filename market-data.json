@@ -1,12 +1,12 @@
 {
   "brent": {
-    "price": "105.92",
-    "verified_date": "15 OCT",
-    "source_label": "Reuters",
-    "status_label": "SETTLED",
+    "price": "105.40",
+    "verified_date": "16 OCT",
+    "source_label": "Times of India",
+    "status_label": "REPORTED",
     "refreshed_at_utc": null,
-    "observation_date_utc": "2026-10-15",
-    "observation_type": "settlement"
+    "observation_date_utc": "2026-10-16",
+    "observation_type": "reported_quote"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
