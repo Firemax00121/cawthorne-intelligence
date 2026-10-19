@@ -1,13 +1,13 @@
 {
   "brent": {
-    "price": "108.41",
+    "price": "108.14",
     "verified_date": "19 OCT",
     "source_label": "Reuters",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-19T13:13:00Z",
+    "refreshed_at_utc": "2026-10-19T16:22:55Z",
     "observation_date_utc": "2026-10-19",
     "observation_type": "intraday",
-    "observation_time_utc": "11:52 UTC",
+    "observation_time_utc": "14:27 UTC",
     "source_url": "https://www.reuters.com/business/energy/oil-slips-trumps-sanction-waiver-may-lead-more-russian-fuel-supplies-2026-10-18/"
   },
   "cawthorne_tender": {
