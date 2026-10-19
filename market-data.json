@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "107.57",
+    "price": "107.36",
     "verified_date": "19 OCT",
-    "source_label": "Reuters",
+    "source_label": "WSJ",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-19T06:36:46.962Z",
+    "refreshed_at_utc": "2026-10-19T08:58:13.136Z",
     "observation_date_utc": "2026-10-19",
     "observation_type": "intraday",
-    "observation_time_utc": "06:19 UTC",
-    "source_url": "https://www.reuters.com/business/energy/oil-slips-trumps-sanction-waiver-may-lead-more-russian-fuel-supplies-2026-10-18/"
+    "observation_time_utc": "07:31 UTC (report time; quote timestamp not specified)",
+    "source_url": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-correction-but-drop-may-be-limited-by-geopolitical-tensions-21ff1c15"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
