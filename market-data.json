@@ -1,13 +1,13 @@
 {
   "brent": {
-    "price": "110.85",
+    "price": "109.04",
     "verified_date": "21 OCT",
     "source_label": "Reuters",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-21T12:44:49Z",
+    "refreshed_at_utc": "2026-10-21T16:37:03Z",
     "observation_date_utc": "2026-10-21",
     "observation_type": "intraday",
-    "observation_time_utc": "10:48 UTC",
+    "observation_time_utc": "14:50 UTC",
     "source_url": "https://www.reuters.com/business/energy/oil-rises-middle-east-supply-worries-2026-10-21/"
   },
   "cawthorne_tender": {
