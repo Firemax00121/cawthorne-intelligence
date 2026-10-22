@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "108.42",
+    "price": "108.82",
     "verified_date": "21 OCT",
-    "source_label": "WSJ",
+    "source_label": "Reuters",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-21T18:54:57Z",
+    "refreshed_at_utc": "2026-10-22T02:34:16Z",
     "observation_date_utc": "2026-10-21",
-    "observation_type": "intraday",
+    "observation_type": "settlement",
     "observation_time_utc": null,
-    "source_url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-hormuz-shipping-risks-persist-7df58bc8"
+    "source_url": "https://www.reuters.com/business/energy/oil-rises-middle-east-supply-worries-2026-10-21/"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
