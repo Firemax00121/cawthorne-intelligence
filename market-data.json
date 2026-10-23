@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "114.28",
+    "price": "114.57",
     "verified_date": "23 OCT",
-    "source_label": "Wall Street Journal / ICE",
+    "source_label": "Reuters",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-23T11:14:35Z",
+    "refreshed_at_utc": "2026-10-23T12:11:44.387Z",
     "observation_date_utc": "2026-10-23",
     "observation_type": "intraday",
-    "observation_time_utc": "10:27",
-    "source_url": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db"
+    "observation_time_utc": "11:38",
+    "source_url": "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
