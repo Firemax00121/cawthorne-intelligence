@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "115.86",
+    "price": "117.14",
     "verified_date": "23 OCT",
-    "source_label": "Associated Press",
+    "source_label": "Financial Times",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-23T15:43:18.892Z",
+    "refreshed_at_utc": "2026-10-23T16:25:52Z",
     "observation_date_utc": "2026-10-23",
     "observation_type": "intraday",
     "observation_time_utc": null,
-    "source_url": "https://apnews.com/article/stocks-markets-ai-oil-inflation-7b47ef3b037bfba4e34f685329b9b963"
+    "source_url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
