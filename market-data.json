@@ -1,13 +1,13 @@
 {
   "brent": {
-    "price": "117.18",
+    "price": "116.35",
     "verified_date": "23 OCT",
     "source_label": "Reuters",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-23T17:07:20Z",
+    "refreshed_at_utc": "2026-10-23T18:54:56Z",
     "observation_date_utc": "2026-10-23",
     "observation_type": "intraday",
-    "observation_time_utc": "2026-10-23T16:22:00Z",
+    "observation_time_utc": "2026-10-23T18:06:00Z",
     "source_url": "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/"
   },
   "cawthorne_tender": {
