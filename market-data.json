@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "114.99",
+    "price": "115.86",
     "verified_date": "23 OCT",
-    "source_label": "Reuters",
+    "source_label": "Associated Press",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-23T14:26:54.031Z",
+    "refreshed_at_utc": "2026-10-23T15:43:18.892Z",
     "observation_date_utc": "2026-10-23",
     "observation_type": "intraday",
-    "observation_time_utc": "13:00",
-    "source_url": "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/"
+    "observation_time_utc": null,
+    "source_url": "https://apnews.com/article/stocks-markets-ai-oil-inflation-7b47ef3b037bfba4e34f685329b9b963"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
