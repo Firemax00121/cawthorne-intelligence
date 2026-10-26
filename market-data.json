@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "115.23",
+    "price": "114.57",
     "verified_date": "26 OCT",
-    "source_label": "Reuters",
+    "source_label": "WSJ",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-26T08:50:25.916Z",
+    "refreshed_at_utc": "2026-10-26T10:12:44.479Z",
     "observation_date_utc": "2026-10-26",
     "observation_type": "intraday",
-    "observation_time_utc": "07:44:00",
-    "source_url": "https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/"
+    "observation_time_utc": null,
+    "source_url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
