@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "115.01",
+    "price": "115.23",
     "verified_date": "26 OCT",
-    "source_label": "WSJ / LSEG",
+    "source_label": "Reuters",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-26T03:09:25.155Z",
+    "refreshed_at_utc": "2026-10-26T08:50:25.916Z",
     "observation_date_utc": "2026-10-26",
     "observation_type": "intraday",
-    "observation_time_utc": null,
-    "source_url": "https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e"
+    "observation_time_utc": "07:44:00",
+    "source_url": "https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
