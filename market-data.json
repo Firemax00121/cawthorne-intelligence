@@ -1,13 +1,13 @@
 {
   "brent": {
-    "price": "115.15",
+    "price": "117.21",
     "verified_date": "26 OCT",
     "source_label": "Reuters",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-26T13:06:39.340Z",
+    "refreshed_at_utc": "2026-10-26T18:12:27.322Z",
     "observation_date_utc": "2026-10-26",
     "observation_type": "intraday",
-    "observation_time_utc": "12:39",
+    "observation_time_utc": null,
     "source_url": "https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/"
   },
   "cawthorne_tender": {
