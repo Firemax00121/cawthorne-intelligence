@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "115.48",
+    "price": "115.29",
     "verified_date": "26 OCT",
-    "source_label": "Reuters",
+    "source_label": "Financial Express",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-26T01:47:08Z",
+    "refreshed_at_utc": "2026-10-26T02:15:52Z",
     "observation_date_utc": "2026-10-26",
     "observation_type": "intraday",
     "observation_time_utc": null,
-    "source_url": "https://www.reuters.com/world/asia-pacific/global-markets-pix-2026-10-26/"
+    "source_url": "https://www.financialexpress.com/market/sensex-nifty-today-gift-nifty-signals-negative-start-brent-crude-tops-115bbl-4369399/"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
