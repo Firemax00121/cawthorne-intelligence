@@ -1,13 +1,13 @@
 {
   "brent": {
-    "price": "114.81",
+    "price": "116.24",
     "verified_date": "27 OCT",
     "source_label": "Reuters",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-27T05:30:56.260Z",
+    "refreshed_at_utc": "2026-10-27T08:31:52Z",
     "observation_date_utc": "2026-10-27",
     "observation_type": "intraday",
-    "observation_time_utc": "04:18",
+    "observation_time_utc": "07:18",
     "source_url": "https://www.reuters.com/business/energy/oil-eases-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-2026-10-27/"
   },
   "cawthorne_tender": {
