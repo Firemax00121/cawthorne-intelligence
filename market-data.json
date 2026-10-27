@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "114.81",
+    "price": "113.85",
     "verified_date": "27 OCT",
-    "source_label": "Reuters",
+    "source_label": "Oilprice.com",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-27T15:14:35.319Z",
+    "refreshed_at_utc": "2026-10-27T16:45:20.008Z",
     "observation_date_utc": "2026-10-27",
     "observation_type": "intraday",
-    "observation_time_utc": "13:11",
-    "source_url": "https://www.reuters.com/business/energy/oil-eases-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-2026-10-27/"
+    "observation_time_utc": null,
+    "source_url": "https://oilprice.com/futures/Brent"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
