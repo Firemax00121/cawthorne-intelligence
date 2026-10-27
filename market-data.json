@@ -1,10 +1,10 @@
 {
   "brent": {
-    "price": "113.85",
+    "price": "113.86",
     "verified_date": "27 OCT",
     "source_label": "Oilprice.com",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-27T16:45:20.008Z",
+    "refreshed_at_utc": "2026-10-27T17:19:40Z",
     "observation_date_utc": "2026-10-27",
     "observation_type": "intraday",
     "observation_time_utc": null,
