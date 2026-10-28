@@ -1,13 +1,13 @@
 {
   "brent": {
-    "price": "115.24",
+    "price": "115.19",
     "verified_date": "28 OCT",
     "source_label": "Reuters",
     "status_label": "OBSERVED",
-    "refreshed_at_utc": "2026-10-28T10:24:16Z",
+    "refreshed_at_utc": "2026-10-28T11:38:04Z",
     "observation_date_utc": "2026-10-28",
     "observation_type": "intraday",
-    "observation_time_utc": "2026-10-28T08:58:00Z",
+    "observation_time_utc": "2026-10-28T11:15:00Z",
     "source_url": "https://www.reuters.com/world/asia-pacific/oil-prices-rise-after-attack-saudi-arabian-refinery-reignites-supply-concerns-2026-10-28/"
   },
   "cawthorne_tender": {
