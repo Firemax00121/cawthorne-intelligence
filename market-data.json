@@ -1,13 +1,14 @@
 {
   "brent": {
-    "price": "115.32",
-    "verified_date": "28 OCT",
+    "price": "114.50",
+    "verified_date": "29 OCT",
     "source_label": "Reuters",
-    "status_label": "SETTLEMENT",
-    "refreshed_at_utc": "2026-10-28T20:18:14.413Z",
-    "observation_date_utc": "2026-10-28",
-    "observation_type": "settlement",
-    "source_url": "https://www.reuters.com/world/asia-pacific/oil-prices-rise-after-attack-saudi-arabian-refinery-reignites-supply-concerns-2026-10-28/"
+    "status_label": "INTRADAY",
+    "refreshed_at_utc": "2026-10-29T02:13:49Z",
+    "observation_date_utc": "2026-10-29",
+    "observation_type": "intraday",
+    "source_url": "https://www.reuters.com/business/energy/us-oil-prices-fall-investors-gauge-risks-mideast-supply-2026-10-29/",
+    "observation_timestamp_utc": "2026-10-29T01:32:00Z"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
