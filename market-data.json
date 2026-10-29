@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "114.10",
+    "price": "114.47",
     "verified_date": "29 OCT",
     "source_label": "Reuters",
     "status_label": "INTRADAY",
-    "refreshed_at_utc": "2026-10-29T04:33:16Z",
+    "refreshed_at_utc": "2026-10-29T07:37:04Z",
     "observation_date_utc": "2026-10-29",
     "observation_type": "intraday",
     "source_url": "https://www.reuters.com/business/energy/us-oil-prices-fall-investors-gauge-risks-mideast-supply-2026-10-29/",
-    "observation_timestamp_utc": "2026-10-29T03:51:00Z"
+    "observation_timestamp_utc": "2026-10-29T07:20:00Z"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
