@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "113.13",
+    "price": "113.73",
     "verified_date": "29 OCT",
-    "source_label": "Wall Street Journal",
+    "source_label": "Reuters",
     "status_label": "INTRADAY",
-    "refreshed_at_utc": "2026-10-29T15:10:23Z",
+    "refreshed_at_utc": "2026-10-29T16:33:44Z",
     "observation_date_utc": "2026-10-29",
     "observation_type": "intraday",
-    "source_url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-traders-weigh-middle-east-risks-f814aedd",
-    "observation_timestamp_utc": "2026-10-29T13:53:00Z"
+    "source_url": "https://www.reuters.com/business/energy/us-oil-prices-fall-investors-gauge-risks-mideast-supply-2026-10-29/",
+    "observation_timestamp_utc": "2026-10-29T15:45:00Z"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
