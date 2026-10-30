@@ -3,13 +3,13 @@
     "price": "113.43",
     "verified_date": "30 OCT",
     "source_label": "Reuters · JAN 2027",
-    "status_label": "SETTLEMENT",
-    "refreshed_at_utc": "2026-10-30T23:18:00Z",
+    "status_label": "REPORTED CLOSE",
+    "refreshed_at_utc": "2026-10-30T23:18:15Z",
     "observation_date_utc": "2026-10-30",
-    "observation_type": "settlement",
+    "observation_type": "reported_close",
     "source_url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30/",
     "observation_timestamp_utc": null,
-    "observation_time_note": "Reuters reported on 30 Oct 2026 that the more active January 2027 Brent futures contract gained $2.63 to $113.43/bbl at Friday's close. The December 2026 contract expired 30 Oct and settled at $117.64/bbl. This is a contract rollover, not a $4.21/bbl like-for-like decline. Reuters does not provide an exact January settlement timestamp.",
+    "observation_time_note": "Reuters reported on 30 Oct 2026 that the more active January 2027 Brent futures contract gained $2.63 to $113.43/bbl; no exact observation time or explicit exchange settlement for January was supplied. December 2026 expired 30 Oct and separately settled at $117.64/bbl. This is a contract rollover, not a like-for-like $4.21/bbl price decline.",
     "contract_month": "2027-01"
   },
   "cawthorne_tender": {
