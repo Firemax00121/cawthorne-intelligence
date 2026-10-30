@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "117.62",
+    "price": "117.14",
     "verified_date": "30 OCT",
     "source_label": "Reuters",
     "status_label": "INTRADAY",
-    "refreshed_at_utc": "2026-10-30T11:24:23Z",
+    "refreshed_at_utc": "2026-10-30T13:47:37Z",
     "observation_date_utc": "2026-10-30",
     "observation_type": "intraday",
     "source_url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30/",
-    "observation_timestamp_utc": "2026-10-30T10:45:00Z",
-    "observation_time_note": "Reuters December 2026 Brent futures, as of 10:45 GMT on 30 Oct 2026; contract expires today; January contract separately quoted at $113.58"
+    "observation_timestamp_utc": "2026-10-30T12:36:00Z",
+    "observation_time_note": "Reuters December 2026 Brent futures, as of 12:36 GMT on 30 Oct 2026; contract expires today; January 2027 contract separately quoted at $113.10"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
