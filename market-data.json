@@ -1,14 +1,15 @@
 {
   "brent": {
-    "price": "116.08",
+    "price": "116.25",
     "verified_date": "30 OCT",
-    "source_label": "Reuters",
+    "source_label": "Moneycontrol",
     "status_label": "INTRADAY",
-    "refreshed_at_utc": "2026-10-30T05:13:59.065Z",
+    "refreshed_at_utc": "2026-10-30T06:30:24Z",
     "observation_date_utc": "2026-10-30",
     "observation_type": "intraday",
-    "source_url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30/",
-    "observation_timestamp_utc": "2026-10-30T03:23:00Z"
+    "source_url": "https://www.moneycontrol.com/news/business/markets/brent-crude-crosses-116-wti-tops-103-as-saudi-attacks-fuel-supply-disruption-fears-14064149.html",
+    "observation_timestamp_utc": null,
+    "observation_time_note": "Around 09:30 IST on 30 Oct 2026 (source approximate; exact observation time not reported)"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
