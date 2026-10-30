@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "117.75",
+    "price": "117.64",
     "verified_date": "30 OCT",
     "source_label": "Reuters",
-    "status_label": "INTRADAY",
-    "refreshed_at_utc": "2026-10-30T18:12:57Z",
+    "status_label": "SETTLEMENT",
+    "refreshed_at_utc": "2026-10-30T19:45:51Z",
     "observation_date_utc": "2026-10-30",
-    "observation_type": "intraday",
+    "observation_type": "settlement",
     "source_url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30/",
-    "observation_timestamp_utc": "2026-10-30T17:07:00Z",
-    "observation_time_note": "Reuters December 2026 Brent futures at $117.75/bbl as of 17:07 GMT on 30 Oct 2026; December contract expires today; January 2027 contract separately quoted at $114.03/bbl"
+    "observation_timestamp_utc": null,
+    "observation_time_note": "Reuters reported December 2026 Brent futures settled at $117.64/bbl on 30 Oct 2026 (December contract expired this day); more active January 2027 Brent settled at $113.43/bbl. Reuters article does not give an exact settlement observation timestamp; do not reuse the prior intraday 17:07 UTC time."
   },
   "cawthorne_tender": {
     "seller": "NNPC",
