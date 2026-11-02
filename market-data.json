@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "104.48",
+    "price": "104.77",
     "verified_date": "02 NOV",
-    "source_label": "AP · JAN 2027",
-    "status_label": "REPORTED QUOTE",
-    "refreshed_at_utc": "2026-11-02T20:03:48.888Z",
+    "source_label": "REUTERS · JAN 2027",
+    "status_label": "REPORTED SETTLEMENT",
+    "refreshed_at_utc": "2026-11-02T21:23:05.525Z",
     "observation_date_utc": "2026-11-02",
-    "observation_type": "reported_intraday_quote",
-    "source_url": "https://apnews.com/article/stocks-markets-ai-earnings-oil-iran-048328e49e47ce7afe6c1fb9d9acf13d",
+    "observation_type": "reported_settlement",
+    "source_url": "https://www.reuters.com/business/energy/oil-slips-more-than-1-talks-continue-ending-iran-war-2026-11-01/",
     "observation_timestamp_utc": null,
-    "observation_time_note": "Associated Press November 2, 2026 U.S. markets report quotes Brent crude at $104.48/bbl in a market snapshot whose stock-index context is as of 2:07 p.m. ET (19:07 UTC). The precise Brent exchange-tick timestamp is not independently established. Intraday reported quote, not settlement. January 2027 front-month designation is supported independently by contemporaneous Wall Street Journal contract-specific reporting; AP does not explicitly name the contract month in this quote.",
+    "observation_time_note": "Reuters' November 2, 2026 market report states Brent futures settled at $104.77/bbl, down $8.66 (7.63%). This is the reported November 2 settlement, not a separately verified exchange-tick timestamp. January 2027 is the front-month contract, independently identified by contemporaneous Wall Street Journal reporting. The Reuters quotation does not specify the contract month.",
     "contract_month": "2027-01",
     "report_timestamp_utc": null
   },
