@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "104.92",
+    "price": "104.48",
     "verified_date": "02 NOV",
     "source_label": "AP · JAN 2027",
     "status_label": "REPORTED QUOTE",
-    "refreshed_at_utc": "2026-11-02T19:12:30.490Z",
+    "refreshed_at_utc": "2026-11-02T20:03:48.888Z",
     "observation_date_utc": "2026-11-02",
     "observation_type": "reported_intraday_quote",
     "source_url": "https://apnews.com/article/stocks-markets-ai-earnings-oil-iran-048328e49e47ce7afe6c1fb9d9acf13d",
     "observation_timestamp_utc": null,
-    "observation_time_note": "Associated Press November 2, 2026 U.S. markets report quotes Brent crude at $104.92/bbl in a market snapshot whose stock-index context is as of 12:50 p.m. ET (17:50 UTC). The precise Brent exchange-tick timestamp is not independently established. Intraday reported quote, not settlement. January 2027 front-month designation is supported independently by contemporaneous Wall Street Journal contract-specific reporting; AP does not explicitly name the contract month in this quote.",
+    "observation_time_note": "Associated Press November 2, 2026 U.S. markets report quotes Brent crude at $104.48/bbl in a market snapshot whose stock-index context is as of 2:07 p.m. ET (19:07 UTC). The precise Brent exchange-tick timestamp is not independently established. Intraday reported quote, not settlement. January 2027 front-month designation is supported independently by contemporaneous Wall Street Journal contract-specific reporting; AP does not explicitly name the contract month in this quote.",
     "contract_month": "2027-01",
     "report_timestamp_utc": null
   },
