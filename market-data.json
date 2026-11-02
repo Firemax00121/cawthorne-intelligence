@@ -1,17 +1,17 @@
 {
   "brent": {
-    "price": "106.65",
+    "price": "106.57",
     "verified_date": "02 NOV",
-    "source_label": "Reuters · JAN 2027",
+    "source_label": "WSJ · JAN 2027",
     "status_label": "REPORTED QUOTE",
-    "refreshed_at_utc": "2026-11-02T15:46:41.374Z",
+    "refreshed_at_utc": "2026-11-02T16:12:08.627Z",
     "observation_date_utc": "2026-11-02",
     "observation_type": "reported_intraday_quote",
-    "source_url": "https://www.reuters.com/business/energy/oil-slips-more-than-1-talks-continue-ending-iran-war-2026-11-01/",
-    "observation_timestamp_utc": "2026-11-02T13:57:00Z",
-    "observation_time_note": "Reuters November 2 updated oil report states Brent crude futures were $106.65/bbl by 13:57 GMT (as-of reporting time, not exchange tick or settlement). January 2027 delivery supported separately by contemporaneous Wall Street Journal contract-specific reporting. Reuters does not specify the contract month in this quotation.",
+    "source_url": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6",
+    "observation_timestamp_utc": null,
+    "observation_time_note": "Dow Jones/WSJ market note dated 2 Nov 2026 at 09:09 ET (14:09 UTC) reports Brent crude futures at $106.57/bbl. 14:09 UTC is the report time, not an independently verified exchange tick or settlement. January 2027 front-month designation verified separately from ICE expiry schedule and WSJ January contract reporting.",
     "contract_month": "2027-01",
-    "report_timestamp_utc": null
+    "report_timestamp_utc": "2026-11-02T14:09:00Z"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
