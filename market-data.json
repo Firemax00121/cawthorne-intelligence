@@ -1,17 +1,17 @@
 {
   "brent": {
-    "price": "106.57",
+    "price": "105.95",
     "verified_date": "02 NOV",
     "source_label": "WSJ · JAN 2027",
     "status_label": "REPORTED QUOTE",
-    "refreshed_at_utc": "2026-11-02T16:12:08.627Z",
+    "refreshed_at_utc": "2026-11-02T16:54:12.175Z",
     "observation_date_utc": "2026-11-02",
     "observation_type": "reported_intraday_quote",
     "source_url": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6",
     "observation_timestamp_utc": null,
-    "observation_time_note": "Dow Jones/WSJ market note dated 2 Nov 2026 at 09:09 ET (14:09 UTC) reports Brent crude futures at $106.57/bbl. 14:09 UTC is the report time, not an independently verified exchange tick or settlement. January 2027 front-month designation verified separately from ICE expiry schedule and WSJ January contract reporting.",
+    "observation_time_note": "Dow Jones/WSJ market note dated 2 Nov 2026 at 15:34 GMT reports front-month Brent crude futures at $105.95/bbl. 15:34 UTC is the report time, not an independently verified exchange tick or settlement. Front-month contract is January 2027 based on ICE expiry schedule and contract-specific reporting.",
     "contract_month": "2027-01",
-    "report_timestamp_utc": "2026-11-02T14:09:00Z"
+    "report_timestamp_utc": "2026-11-02T15:34:00Z"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
