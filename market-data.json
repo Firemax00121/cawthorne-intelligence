@@ -1,16 +1,17 @@
 {
   "brent": {
-    "price": "108.64",
+    "price": "108.37",
     "verified_date": "02 NOV",
     "source_label": "Reuters · JAN 2027",
     "status_label": "REPORTED QUOTE",
-    "refreshed_at_utc": "2026-11-02T11:15:45Z",
+    "refreshed_at_utc": "2026-11-02T12:54:35.414Z",
     "observation_date_utc": "2026-11-02",
     "observation_type": "reported_intraday_quote",
-    "source_url": "https://www.reuters.com/business/energy/oil-slips-more-than-1-talks-continue-ending-iran-war-2026-11-01/",
-    "observation_timestamp_utc": "2026-11-02T10:20:00Z",
-    "observation_time_note": "Reuters Nov 2 London oil report states Brent crude futures were $108.64/bbl by 10:20 GMT on 2 Nov 2026. This is the report's by-time, not a verified exchange tick or settlement timestamp. Reuters does not explicitly identify the contract month in that quotation; Jan 2027 front-month identification is supported separately by contemporaneous contract-specific market reporting and ICE expiry schedule. Reported intraday quote, not settlement.",
-    "contract_month": "2027-01"
+    "source_url": "https://www.reuters.com/world/uk/sterling-drifts-boe-rate-decision-comes-into-focus-2026-11-02/",
+    "observation_timestamp_utc": null,
+    "observation_time_note": "Reuters UK currency report published 2 Nov 2026 at 12:09 UTC says Brent futures were last at $108.37/bbl, down roughly 4.5% Monday. The publication time is NOT an exchange tick or settlement timestamp; the exact quotation time is not supplied. Jan 2027 front-month designation independently supported by contemporaneous WSJ 12:01 GMT front-month Brent report. This is a reported intraday quote, not a settlement.",
+    "contract_month": "2027-01",
+    "report_timestamp_utc": "2026-11-02T12:09:00Z"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
