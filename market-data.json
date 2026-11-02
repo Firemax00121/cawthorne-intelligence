@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "108.91",
+    "price": "108.64",
     "verified_date": "02 NOV",
-    "source_label": "WSJ · JAN 2027",
+    "source_label": "Reuters · JAN 2027",
     "status_label": "REPORTED QUOTE",
-    "refreshed_at_utc": "2026-11-02T10:13:26Z",
+    "refreshed_at_utc": "2026-11-02T11:15:45Z",
     "observation_date_utc": "2026-11-02",
     "observation_type": "reported_intraday_quote",
-    "source_url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350",
-    "observation_timestamp_utc": "2026-11-02T09:43:00Z",
-    "observation_time_note": "WSJ market note time-stamped 09:43 GMT on 2 Nov 2026 reported Brent crude at $108.91/bbl, down 4%. This is the report time, not a verified exchange tick or settlement timestamp. Separate WSJ Nov 2 report explicitly identifies January 2027 Brent futures as the front-month contract; the 09:43 market note does not name the contract month. Reported intraday quote, not a settlement.",
+    "source_url": "https://www.reuters.com/business/energy/oil-slips-more-than-1-talks-continue-ending-iran-war-2026-11-01/",
+    "observation_timestamp_utc": "2026-11-02T10:20:00Z",
+    "observation_time_note": "Reuters Nov 2 London oil report states Brent crude futures were $108.64/bbl by 10:20 GMT on 2 Nov 2026. This is the report's by-time, not a verified exchange tick or settlement timestamp. Reuters does not explicitly identify the contract month in that quotation; Jan 2027 front-month identification is supported separately by contemporaneous contract-specific market reporting and ICE expiry schedule. Reported intraday quote, not settlement.",
     "contract_month": "2027-01"
   },
   "cawthorne_tender": {
