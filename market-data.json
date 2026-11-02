@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "109.75",
+    "price": "110.00",
     "verified_date": "02 NOV",
     "source_label": "Reuters · JAN 2027",
     "status_label": "REPORTED QUOTE",
-    "refreshed_at_utc": "2026-11-02T05:33:14Z",
+    "refreshed_at_utc": "2026-11-02T09:33:11.613Z",
     "observation_date_utc": "2026-11-02",
     "observation_type": "reported_intraday_quote",
     "source_url": "https://www.reuters.com/business/energy/oil-slips-more-than-1-talks-continue-ending-iran-war-2026-11-01/",
-    "observation_timestamp_utc": "2026-11-02T04:07:00Z",
-    "observation_time_note": "Reuters reported Brent crude futures at $109.75/bbl by 04:07 GMT on 2 Nov 2026. Reuters did not explicitly identify the contract month in this report; ICE expiry information identifies Jan 2027 as front-month following Dec 2026 expiry on 30 Oct. This is a reported intraday quote, not a settlement or close.",
+    "observation_timestamp_utc": "2026-11-02T07:12:00Z",
+    "observation_time_note": "Reuters reported Brent crude futures at $110.00/bbl by 07:12 GMT on 2 Nov 2026. Reuters did not explicitly identify the contract month in this report; ICE expiry information identifies Jan 2027 as front-month following Dec 2026 expiry on 30 Oct. This is a reported intraday quote, not a settlement or close.",
     "contract_month": "2027-01"
   },
   "cawthorne_tender": {
