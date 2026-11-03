@@ -1,17 +1,17 @@
 {
   "brent": {
-    "price": "104.77",
-    "verified_date": "02 NOV",
+    "price": "105.25",
+    "verified_date": "03 NOV",
     "source_label": "REUTERS · JAN 2027",
-    "status_label": "REPORTED SETTLEMENT",
-    "refreshed_at_utc": "2026-11-02T21:23:05.525Z",
-    "observation_date_utc": "2026-11-02",
-    "observation_type": "reported_settlement",
-    "source_url": "https://www.reuters.com/business/energy/oil-slips-more-than-1-talks-continue-ending-iran-war-2026-11-01/",
-    "observation_timestamp_utc": null,
-    "observation_time_note": "Reuters' November 2, 2026 market report states Brent futures settled at $104.77/bbl, down $8.66 (7.63%). This is the reported November 2 settlement, not a separately verified exchange-tick timestamp. January 2027 is the front-month contract, independently identified by contemporaneous Wall Street Journal reporting. The Reuters quotation does not specify the contract month.",
+    "status_label": "REPORTED INTRADAY",
+    "refreshed_at_utc": "2026-11-03T01:58:34Z",
+    "observation_date_utc": "2026-11-03",
+    "observation_type": "reported_intraday",
+    "source_url": "https://www.reuters.com/markets/commodities/oil-rises-after-report-us-strike-irans-qeshm-island-2026-11-03/",
+    "observation_timestamp_utc": "2026-11-03T01:04:00Z",
+    "observation_time_note": "Reuters reported Brent crude futures at $105.25/bbl by 0104 GMT on November 3, 2026, in an article published 01:27 UTC. Intraday reported quotation, not an exchange settlement or independently verified tick. Contract month retained as January 2027 based on independently established front-month identification; Reuters article does not explicitly identify the contract month.",
     "contract_month": "2027-01",
-    "report_timestamp_utc": null
+    "report_timestamp_utc": "2026-11-03T01:27:00Z"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
