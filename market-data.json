@@ -1,17 +1,16 @@
 {
   "brent": {
-    "price": "104.80",
+    "price": "106.61",
     "verified_date": "03 NOV",
     "source_label": "REUTERS · JAN 2027",
     "status_label": "REPORTED INTRADAY",
-    "refreshed_at_utc": "2026-11-03T04:43:07Z",
+    "refreshed_at_utc": "2026-11-03T09:34:33Z",
     "observation_date_utc": "2026-11-03",
     "observation_type": "reported_intraday",
     "source_url": "https://www.reuters.com/markets/commodities/oil-rises-after-report-us-strike-irans-qeshm-island-2026-11-03/",
-    "observation_timestamp_utc": "2026-11-03T03:55:00Z",
-    "observation_time_note": "Reuters article (initially published November 3 at 01:27 UTC, subsequently updated) reports Brent crude futures at $104.80/bbl by 0355 GMT on November 3, 2026. Intraday reported quotation, not an exchange settlement or independently verified tick. January 2027 contract identification is retained from independently established front-month reporting; Reuters article does not explicitly identify contract month.",
-    "contract_month": "2027-01",
-    "report_timestamp_utc": "2026-11-03T01:27:00Z"
+    "observation_timestamp_utc": "2026-11-03T07:44:00Z",
+    "observation_time_note": "Reuters updated report states Brent futures gained $1.84 to $106.61/bbl by 0744 GMT November 3, 2026. Intraday reported quote, not settlement. Contract month January 2027 retained from previously verified front-month identification; this report does not independently specify contract month.",
+    "contract_month": "2027-01"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
