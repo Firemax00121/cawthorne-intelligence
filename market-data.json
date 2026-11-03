@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "103.14",
+    "price": "103.44",
     "verified_date": "03 NOV",
     "source_label": "REUTERS · JAN 2027",
     "status_label": "REPORTED INTRADAY",
-    "refreshed_at_utc": "2026-11-03T17:14:58Z",
+    "refreshed_at_utc": "2026-11-03T19:16:51Z",
     "observation_date_utc": "2026-11-03",
     "observation_type": "reported_intraday",
-    "source_url": "https://za.investing.com/news/commodities-news/oil-rises-after-report-of-us-strike-on-irans-qeshm-island-4544509",
-    "observation_timestamp_utc": "2026-11-03T15:44:00Z",
-    "observation_time_note": "Reuters November 3 report: Brent futures fell $1.63 or 2% to $103.14/bbl at 10:44 a.m. ET (1544 GMT). Reported intraday observation, not settlement. January 2027 contract label retained from prior identification; this observation does not independently verify contract month.",
+    "source_url": "https://www.reuters.com/markets/commodities/oil-rises-after-report-us-strike-irans-qeshm-island-2026-11-03/",
+    "observation_timestamp_utc": "2026-11-03T18:18:00Z",
+    "observation_time_note": "Reuters November 3 report: Brent futures $103.44/bbl at 1:18 p.m. ET (1818 GMT). Reported intraday observation, not settlement. January 2027 contract label retained from prior identification; this observation does not independently verify contract month.",
     "contract_month": "2027-01"
   },
   "cawthorne_tender": {
