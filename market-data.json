@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "103.60",
-    "verified_date": "03 NOV",
-    "source_label": "REUTERS · BRENT",
-    "status_label": "REPORTED SETTLEMENT",
-    "refreshed_at_utc": "2026-11-03T23:23:00Z",
-    "observation_date_utc": "2026-11-03",
-    "observation_type": "reported_settlement",
-    "source_url": "https://www.reuters.com/markets/commodities/oil-rises-after-report-us-strike-irans-qeshm-island-2026-11-03/",
+    "price": "103.21",
+    "verified_date": "04 NOV",
+    "source_label": "ECONOMIC TIMES · BRENT",
+    "status_label": "REPORTED INTRADAY",
+    "refreshed_at_utc": "2026-11-04T06:05:00Z",
+    "observation_date_utc": "2026-11-04",
+    "observation_type": "reported_intraday",
+    "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-4-crude-oil-falls-below-104-ahead-of-us-midterm-elections-what-are-analysts-saying/articleshow/135518787.cms",
     "observation_timestamp_utc": null,
-    "observation_time_note": "Reuters November 3, 2026 reports Brent futures settled at $103.60/bbl. Exact settlement timestamp and contract month are not independently stated in the cited article; no timestamp or month is inferred.",
+    "observation_time_note": "Economic Times November 4, 2026 article published 07:57 IST reports Brent futures at $103.21/bbl. Publication time is not the quote observation time; exact quote timestamp and contract month not established.",
     "contract_month": null
   },
   "cawthorne_tender": {
@@ -28,5 +28,5 @@
     "source_label": "NNPC Ltd.",
     "verified_date": "08 APR 2026"
   },
-  "deployment_refresh_at_utc": "2026-11-03T05:55:45Z"
+  "deployment_refresh_at_utc": "2026-11-04T06:05:00Z"
 }
