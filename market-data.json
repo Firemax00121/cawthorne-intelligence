@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "102.11",
+    "price": "101.68",
     "verified_date": "04 NOV",
     "source_label": "REUTERS · BRENT",
     "status_label": "REPORTED INTRADAY",
-    "refreshed_at_utc": "2026-11-04T13:44:42Z",
+    "refreshed_at_utc": "2026-11-04T14:21:26Z",
     "observation_date_utc": "2026-11-04",
     "observation_type": "reported_intraday",
     "source_url": "https://www.reuters.com/business/energy/oil-edges-down-investors-await-us-midterm-election-results-2026-11-04/",
-    "observation_timestamp_utc": "2026-11-04T11:55:00Z",
-    "observation_time_note": "Reuters reported Brent futures at $102.11/bbl at 1155 GMT November 4, 2026; contract month not specified.",
+    "observation_timestamp_utc": "2026-11-04T13:10:00Z",
+    "observation_time_note": "Reuters reported Brent futures at $101.68/bbl at 1310 GMT November 4, 2026; contract month not specified.",
     "contract_month": null
   },
   "cawthorne_tender": {
@@ -28,5 +28,5 @@
     "source_label": "NNPC Ltd.",
     "verified_date": "08 APR 2026"
   },
-  "deployment_refresh_at_utc": "2026-11-04T13:44:42Z"
+  "deployment_refresh_at_utc": "2026-11-04T14:21:26Z"
 }
