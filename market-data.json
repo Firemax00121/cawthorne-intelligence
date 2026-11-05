@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "96.37",
+    "price": "97.56",
     "verified_date": "05 NOV",
     "source_label": "REUTERS · BRENT",
     "status_label": "INTRADAY OBSERVATION",
-    "refreshed_at_utc": "2026-11-05T12:34:11Z",
+    "refreshed_at_utc": "2026-11-05T14:39:08Z",
     "observation_date_utc": "2026-11-05",
     "observation_type": "intraday",
     "source_url": "https://www.reuters.com/business/energy/oil-falls-fourth-day-expectations-lower-risk-iran-war-escalation-2026-11-05/",
-    "observation_timestamp_utc": "2026-11-05T11:45:00Z",
-    "observation_time_note": "Reuters Nov 5 updated report: Brent futures $96.37/bbl as of 11:45 GMT; intraday, not settlement; contract month unspecified.",
+    "observation_timestamp_utc": "2026-11-05T14:17:00Z",
+    "observation_time_note": "Reuters Nov 5 report: Brent futures $97.56/bbl as of 14:17 GMT; intraday, not settlement; contract month unspecified.",
     "contract_month": null
   },
   "cawthorne_tender": {
@@ -28,6 +28,6 @@
     "source_label": "NNPC Ltd.",
     "verified_date": "08 APR 2026"
   },
-  "deployment_refresh_at_utc": "2026-11-05T12:34:11Z",
+  "deployment_refresh_at_utc": "2026-11-05T14:39:08Z",
   "terminal_status_date_chicago": "2026-11-05"
 }
