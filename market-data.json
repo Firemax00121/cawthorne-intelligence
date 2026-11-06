@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "99.58",
+    "price": "97.55",
     "verified_date": "06 NOV",
     "source_label": "REUTERS · BRENT",
     "status_label": "VERIFIED INTRADAY",
-    "refreshed_at_utc": "2026-11-06T08:02:33Z",
+    "refreshed_at_utc": "2026-11-06T11:15:51Z",
     "observation_date_utc": "2026-11-06",
     "observation_type": "intraday",
     "source_url": "https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/",
-    "observation_timestamp_utc": "2026-11-06T05:04:00Z",
-    "observation_time_note": "Reuters Nov 6 report: January Brent futures $99.58/bbl as of 05:04 GMT, up $1.29 (1.31%).",
+    "observation_timestamp_utc": "2026-11-06T08:26:00Z",
+    "observation_time_note": "Reuters Nov 6 updated report: January Brent futures $97.55/bbl as of 08:26 GMT, down $0.74 (0.8%); intraday, not settlement.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
@@ -28,6 +28,6 @@
     "source_label": "NNPC Ltd.",
     "verified_date": "08 APR 2026"
   },
-  "deployment_refresh_at_utc": "2026-11-06T08:02:33Z",
+  "deployment_refresh_at_utc": "2026-11-06T11:15:51Z",
   "terminal_status_date_chicago": "2026-11-06"
 }
