@@ -1,16 +1,16 @@
 {
   "brent": {
-    "price": "98.29",
-    "verified_date": "05 NOV",
+    "price": "99.86",
+    "verified_date": "06 NOV",
     "source_label": "REUTERS · BRENT",
-    "status_label": "VERIFIED SETTLEMENT",
-    "refreshed_at_utc": "2026-11-05T20:23:43Z",
-    "observation_date_utc": "2026-11-05",
-    "observation_type": "settlement",
-    "source_url": "https://www.reuters.com/business/energy/oil-falls-fourth-day-expectations-lower-risk-iran-war-escalation-2026-11-05/",
-    "observation_timestamp_utc": null,
-    "observation_time_note": "Reuters Nov 5 report: Brent futures settled at $98.29/bbl, up $3.67 (3.88%); exact settlement timestamp not supplied.",
-    "contract_month": null
+    "status_label": "VERIFIED INTRADAY",
+    "refreshed_at_utc": "2026-11-06T04:43:35Z",
+    "observation_date_utc": "2026-11-06",
+    "observation_type": "intraday",
+    "source_url": "https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/",
+    "observation_timestamp_utc": "2026-11-06T02:22:00Z",
+    "observation_time_note": "Reuters Nov 6 report at 02:49 UTC: January Brent futures $99.86/bbl as of 02:22 GMT, up $1.57 (1.6%).",
+    "contract_month": "January 2027"
   },
   "cawthorne_tender": {
     "seller": "NNPC",
@@ -28,6 +28,6 @@
     "source_label": "NNPC Ltd.",
     "verified_date": "08 APR 2026"
   },
-  "deployment_refresh_at_utc": "2026-11-05T20:23:43Z",
+  "deployment_refresh_at_utc": "2026-11-06T04:43:35Z",
   "terminal_status_date_chicago": "2026-11-05"
 }
