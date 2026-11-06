@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "98.55",
+    "price": "97.84",
     "verified_date": "06 NOV",
     "source_label": "REUTERS · BRENT",
     "status_label": "VERIFIED INTRADAY",
-    "refreshed_at_utc": "2026-11-06T14:18:00Z",
+    "refreshed_at_utc": "2026-11-06T18:45:58Z",
     "observation_date_utc": "2026-11-06",
     "observation_type": "intraday",
-    "source_url": "https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/",
-    "observation_timestamp_utc": "2026-11-06T13:46:00Z",
-    "observation_time_note": "Reuters Nov 6 updated report: January Brent futures $98.55/bbl as of 13:46 GMT, up $0.26 (0.3%); intraday, not settlement.",
+    "source_url": "https://ca.investing.com/news/commodities-news/oil-set-for-sharp-weekly-drop-but-middle-east-supply-concerns-provide-floor-4937121",
+    "observation_timestamp_utc": "2026-11-06T16:37:00Z",
+    "observation_time_note": "Reuters Nov 6 updated report: January Brent futures $97.84/bbl as of 16:37 GMT, down $0.45 (0.46%); intraday, not settlement. Reuters article also states 10:34 a.m. CDT, inconsistent with 16:37 GMT; UTC time follows explicit GMT observation.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
@@ -28,6 +28,6 @@
     "source_label": "NNPC Ltd.",
     "verified_date": "08 APR 2026"
   },
-  "deployment_refresh_at_utc": "2026-11-06T14:18:00Z",
+  "deployment_refresh_at_utc": "2026-11-06T18:45:58Z",
   "terminal_status_date_chicago": "2026-11-06"
 }
