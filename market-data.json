@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "98.32",
-    "verified_date": "06 NOV",
-    "source_label": "WSJ · BRENT",
-    "status_label": "VERIFIED SETTLEMENT",
-    "refreshed_at_utc": "2026-11-06T18:45:58Z",
-    "observation_date_utc": "2026-11-06",
-    "observation_type": "settlement",
-    "source_url": "https://www.wsj.com/business/energy-oil/brent-crude-climbs-above-100-as-middle-east-oil-supply-risks-persist-caaf64bb",
-    "observation_timestamp_utc": null,
-    "observation_time_note": "Wall Street Journal reports January 2027 Brent settled at $98.32/bbl on November 6, 2026. No exact settlement timestamp provided; not inferred.",
+    "price": "98.19",
+    "verified_date": "08 NOV",
+    "source_label": "FARMBUCKS · NYMEX",
+    "status_label": "DELAYED MARKET QUOTE",
+    "refreshed_at_utc": "2026-11-09T03:27:00Z",
+    "observation_date_utc": "2026-11-09",
+    "observation_type": "delayed intraday quote",
+    "source_url": "https://farmbucks.com/futures/energy/brent-crude",
+    "observation_timestamp_utc": "2026-11-09T03:27:00Z",
+    "observation_time_note": "Farmbucks NYMEX BZF27 January 2027 Brent delayed quote $98.19/bbl at November 8 2026 9:27 PM UTC-6 (November 9 03:27 UTC). Not a settlement. Site reports 10-minute delayed data.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
@@ -28,6 +28,6 @@
     "source_label": "NNPC Ltd.",
     "verified_date": "08 APR 2026"
   },
-  "deployment_refresh_at_utc": "2026-11-06T18:45:58Z",
+  "deployment_refresh_at_utc": "2026-11-09T03:27:00Z",
   "terminal_status_date_chicago": "2026-11-08"
 }
