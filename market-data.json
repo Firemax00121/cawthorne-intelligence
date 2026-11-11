@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "92.00",
+    "price": "91.81",
     "verified_date": "11 NOV",
     "source_label": "FARMBUCKS · NYMEX",
     "status_label": "DELAYED MARKET QUOTE",
-    "refreshed_at_utc": "2026-11-11T07:32:00Z",
+    "refreshed_at_utc": "2026-11-11T08:38:00Z",
     "observation_date_utc": "2026-11-11",
     "observation_type": "delayed intraday quote",
     "source_url": "https://farmbucks.com/futures/energy/brent-crude",
-    "observation_timestamp_utc": "2026-11-11T07:32:00Z",
-    "observation_time_note": "Farmbucks NYMEX BZF27 January 2027 Brent delayed quote $92.00/bbl displayed November 11 2026 1:32 AM UTC-6 (07:32 UTC). Page says updated 17 minutes ago and delayed 10 minutes; 1:32 is displayed page time, not exchange trade timestamp or settlement.",
+    "observation_timestamp_utc": "2026-11-11T08:38:00Z",
+    "observation_time_note": "Farmbucks NYMEX BZF27 January 2027 Brent delayed quote $91.81/bbl displayed November 11 2026 2:38 AM UTC-6 (08:38 UTC). Page says delayed 10 minutes; displayed time is not independently verified exchange trade timestamp or settlement.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
@@ -28,6 +28,6 @@
     "source_label": "NNPC Ltd.",
     "verified_date": "08 APR 2026"
   },
-  "deployment_refresh_at_utc": "2026-11-11T08:07:07Z",
+  "deployment_refresh_at_utc": "2026-11-11T09:06:01Z",
   "terminal_status_date_chicago": "2026-11-11"
 }
