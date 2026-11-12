@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "93.21",
+    "price": "92.39",
     "verified_date": "12 NOV",
     "source_label": "REUTERS",
     "status_label": "DELAYED MARKET REPORT",
-    "refreshed_at_utc": "2026-11-12T07:32:00Z",
+    "refreshed_at_utc": "2026-11-12T09:46:00Z",
     "observation_date_utc": "2026-11-12",
     "observation_type": "reported intraday futures quote",
     "source_url": "https://www.reuters.com/business/energy/oil-prices-drop-more-than-1-hopes-iran-ukraine-peace-talks-pressure-markets-2026-11-12/",
-    "observation_timestamp_utc": "2026-11-12T07:32:00Z",
-    "observation_time_note": "Reuters November 12 2026: Brent futures $93.21/bbl by 0732 GMT (01:32 CST); reported intraday quote, not settlement.",
+    "observation_timestamp_utc": "2026-11-12T09:46:00Z",
+    "observation_time_note": "Reuters November 12 2026: Brent futures $92.39/bbl at 0946 GMT (03:46 CST); reported intraday quote, not settlement.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
@@ -28,6 +28,6 @@
     "source_label": "NNPC Ltd.",
     "verified_date": "08 APR 2026"
   },
-  "deployment_refresh_at_utc": "2026-11-12T08:46:03Z",
+  "deployment_refresh_at_utc": "2026-11-12T11:15:00Z",
   "terminal_status_date_chicago": "2026-11-12"
 }
