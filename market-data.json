@@ -1,15 +1,15 @@
 {
   "brent": {
-    "price": "95.41",
+    "price": "95.54",
     "verified_date": "13 NOV",
     "source_label": "REUTERS",
     "status_label": "DELAYED MARKET REPORT",
-    "refreshed_at_utc": "2026-11-13T04:02:18Z",
+    "refreshed_at_utc": "2026-11-13T05:54:25Z",
     "observation_date_utc": "2026-11-13",
     "observation_type": "reported intraday futures quotation",
     "source_url": "https://www.reuters.com/business/energy/oil-prices-set-second-weekly-decline-trump-stay-with-iran-blockade-2026-11-13/",
-    "observation_timestamp_utc": "2026-11-13T02:42:00Z",
-    "observation_time_note": "Reuters November 13 2026 article published 03:01 UTC: Brent futures $95.41/bbl at 0242 GMT; intraday observation, not settlement.",
+    "observation_timestamp_utc": "2026-11-13T05:27:00Z",
+    "observation_time_note": "Reuters Nov 13 2026 report: January 2027 Brent futures $95.54/bbl at 0527 GMT; intraday observation, not settlement.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
