@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "96.28",
+    "price": "95.32",
     "verified_date": "16 NOV",
-    "source_label": "FINANCEFEEDS / INVESTING.COM",
+    "source_label": "REUTERS",
     "status_label": "REPORTED INTRADAY",
-    "refreshed_at_utc": "2026-11-16T08:26:46Z",
+    "refreshed_at_utc": "2026-11-16T12:34:57Z",
     "observation_date_utc": "2026-11-16",
     "observation_type": "reported intraday futures quote",
-    "source_url": "https://financefeeds.com/brent-crude-oil-price-96-28-monday-iran-bahrain-strike-bull-98-bear-91/",
-    "observation_time_note": "FinanceFeeds Nov 16 2026 07:00 GMT reports Investing.com January Brent futures $96.28/bbl at 06:21 GMT; intraday quote, not settlement.",
+    "source_url": "https://www.reuters.com/business/energy/oil-prices-fall-expectations-coming-supply-surplus-2026-11-16/",
+    "observation_time_note": "Reuters Nov 16 2026 reports Brent crude futures $95.32/bbl by 11:14 GMT; intraday quote, not settlement.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
