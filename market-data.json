@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "93.08",
+    "price": "92.44",
     "verified_date": "16 NOV",
     "source_label": "REUTERS",
-    "status_label": "REPORTED INTRADAY",
-    "refreshed_at_utc": "2026-11-16T18:43:25Z",
+    "status_label": "REPORTED SETTLEMENT",
+    "refreshed_at_utc": "2026-11-16T22:05:44Z",
     "observation_date_utc": "2026-11-16",
-    "observation_type": "reported intraday futures quote",
+    "observation_type": "reported futures settlement",
     "source_url": "https://www.reuters.com/business/energy/oil-prices-fall-expectations-coming-supply-surplus-2026-11-16/",
-    "observation_time_note": "Reuters Nov 16 2026 reports Brent crude futures $93.08/bbl by 17:52 GMT (12:52 ET); intraday quote, not settlement.",
+    "observation_time_note": "Reuters Nov 16 2026 reports Brent crude futures settled at $92.44/bbl; settlement, not an intraday quote. Exact settlement timestamp not independently established.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
