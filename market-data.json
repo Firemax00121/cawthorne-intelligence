@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "92.76",
+    "price": "93.71",
     "verified_date": "17 NOV",
     "source_label": "REUTERS",
     "status_label": "REPORTED INTRADAY",
-    "refreshed_at_utc": "2026-11-17T12:49:27Z",
+    "refreshed_at_utc": "2026-11-17T14:35:23Z",
     "observation_date_utc": "2026-11-17",
     "observation_type": "reported futures intraday observation",
     "source_url": "https://www.reuters.com/business/energy/oil-slips-supply-surplus-outlook-despite-gulf-tensions-2026-11-17/",
-    "observation_time_note": "Reuters November 17, 2026 report: Brent crude futures $92.76/bbl at 12:04 GMT, up 32 cents (0.4%); intraday, not settlement.",
+    "observation_time_note": "Reuters November 17, 2026 report: Brent crude futures $93.71/bbl at 13:40 GMT, up $1.27 (1.4%); intraday, not settlement.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
