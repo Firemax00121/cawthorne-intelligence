@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "92.53",
+    "price": "91.86",
     "verified_date": "18 NOV",
     "source_label": "REUTERS",
     "status_label": "REUTERS INTRADAY",
-    "refreshed_at_utc": "2026-11-18T07:04:07Z",
+    "refreshed_at_utc": "2026-11-18T08:06:33Z",
     "observation_date_utc": "2026-11-18",
     "observation_type": "reported futures intraday",
     "source_url": "https://www.reuters.com/business/energy/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-2026-11-18/",
-    "observation_time_note": "Reuters November 18, 2026 report: Brent crude futures traded at $92.53/bbl as of 05:50 GMT, down $0.61 (0.7%); intraday, not settlement.",
+    "observation_time_note": "Reuters November 18, 2026 report: Brent crude futures traded at $91.86/bbl as of 07:45 GMT, down $1.28 (1.4%); intraday, not settlement.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
