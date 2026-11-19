@@ -1,6 +1,6 @@
 {
   "brent": {
-    "price": "92.00",
+    "price": "92.19",
     "verified_date": "19 NOV",
     "source_label": "REUTERS",
     "status_label": "REUTERS INTRADAY",
@@ -8,7 +8,7 @@
     "observation_date_utc": "2026-11-19",
     "observation_type": "reported futures intraday",
     "source_url": "https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/",
-    "observation_time_note": "Reuters reported Brent crude futures at $92.00/bbl as of 04:55 GMT on November 19, 2026, up $0.05 (0.05%) versus the November 18 settlement; intraday, not settlement.",
+    "observation_time_note": "Reuters reported Brent crude futures at $92.19/bbl as of 09:53 GMT on November 19, 2026, up $0.24 (0.26%) versus the November 18 settlement; intraday, not settlement.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
