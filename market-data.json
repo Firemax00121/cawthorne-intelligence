@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "91.31",
+    "price": "92.57",
     "verified_date": "20 NOV",
     "source_label": "REUTERS",
-    "status_label": "REUTERS INTRADAY",
-    "refreshed_at_utc": "2026-11-20T14:14:00Z",
+    "status_label": "REUTERS SETTLEMENT",
+    "refreshed_at_utc": "2026-11-20T21:07:05Z",
     "observation_date_utc": "2026-11-20",
-    "observation_type": "reported futures intraday quotation",
+    "observation_type": "reported futures settlement",
     "source_url": "https://www.reuters.com/business/energy/oil-prices-edge-higher-houthi-attacks-riyadh-raise-supply-concerns-2026-11-20/",
-    "observation_time_note": "Reuters reported Brent crude futures at $91.31/bbl at 14:14 GMT on November 20, 2026, down $0.67 (0.7%) versus Thursday's settlement. Intraday quotation, not settlement.",
+    "observation_time_note": "Reuters reported November 20, 2026 Brent crude futures settlement at $92.57/bbl, up $0.59 (0.64%). Exact exchange settlement timestamp not specified in the report; refreshed_at_utc is verification time, not exchange observation time.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
