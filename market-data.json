@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "92.32",
+    "price": "90.87",
     "verified_date": "23 NOV",
-    "source_label": "FINANCEFEEDS / ICE VIA YAHOO FINANCE",
-    "status_label": "INTRADAY · ICE VIA YAHOO",
-    "refreshed_at_utc": "2026-11-23T08:06:35Z",
+    "source_label": "WALL STREET JOURNAL",
+    "status_label": "INTRADAY · WSJ",
+    "refreshed_at_utc": "2026-11-23T16:23:30Z",
     "observation_date_utc": "2026-11-23",
     "observation_type": "reported intraday futures quote",
-    "source_url": "https://financefeeds.com/brent-crude-oil-price-92-32-monday-houthi-refinery-claim-opec-plus-29-november-bull-96-bear-89/",
-    "observation_time_note": "FinanceFeeds reported January 2027 Brent at $92.32/bbl at 06:32 GMT on November 23, 2026, citing ICE data via Yahoo Finance; intraday quote, not settlement.",
+    "source_url": "https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f",
+    "observation_time_note": "Wall Street Journal reported January Brent futures at $90.87/bbl on November 23, 2026; exact quotation timestamp not specified in accessible report. Intraday, not settlement. Reuters reported Brent $90.55 at 14:36 GMT without an explicit contract month in retrieved text.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
