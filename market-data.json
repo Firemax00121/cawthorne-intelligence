@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "89.93",
+    "price": "89.37",
     "verified_date": "23 NOV",
-    "source_label": "INVESTING.COM",
-    "status_label": "DELAYED · ICE",
-    "refreshed_at_utc": "2026-11-23T19:15:33Z",
+    "source_label": "WALL STREET JOURNAL",
+    "status_label": "SETTLEMENT · ICE",
+    "refreshed_at_utc": "2026-11-23T21:45:42Z",
     "observation_date_utc": "2026-11-23",
-    "observation_type": "delayed January 2027 futures quote",
-    "source_url": "https://www.investing.com/commodities/brent-oil-contracts",
-    "observation_time_note": "Investing.com Brent futures contracts table lists Jan 27 at $89.93/bbl, time 11:46, Monday November 23, 2026. The page labels contract quotes delayed by at least 10 minutes; timezone for the table timestamp not independently verified. Not a settlement.",
+    "observation_type": "January 2027 Brent futures settlement",
+    "source_url": "https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f",
+    "observation_time_note": "Wall Street Journal reports January Brent futures settled at $89.37/bbl on Monday November 23, 2026, down 3.5%. Exact exchange settlement timestamp not independently established.",
     "contract_month": "January 2027"
   },
   "cawthorne_tender": {
