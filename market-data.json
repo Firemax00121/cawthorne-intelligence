@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "92.22",
+    "price": "93.06",
     "verified_date": "25 NOV",
     "source_label": "REUTERS",
     "status_label": "INTRADAY · FUTURES",
-    "refreshed_at_utc": "2026-11-25T13:27:41Z",
+    "refreshed_at_utc": "2026-11-25T16:44:10Z",
     "observation_date_utc": "2026-11-25",
     "observation_type": "Brent crude futures intraday",
     "source_url": "https://www.reuters.com/business/energy/oil-prices-fall-supply-glut-concerns-offset-middle-east-disruption-fears-2026-11-25/",
-    "observation_time_note": "Reuters reports Brent futures at $92.22/bbl at 12:32 UTC on November 25, up $0.82 or 0.9%; contract month unspecified.",
+    "observation_time_note": "Reuters reports Brent futures at $93.06/bbl at 14:48 UTC on November 25, up $1.66 or 1.82%; contract month unspecified.",
     "contract_month": null
   },
   "cawthorne_tender": {
