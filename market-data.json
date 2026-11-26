@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "95.00",
+    "price": "94.71",
     "verified_date": "26 NOV",
-    "source_label": "WSJ",
+    "source_label": "Reuters",
     "status_label": "INTRADAY · FUTURES",
-    "refreshed_at_utc": "2026-11-26T02:19:37Z",
+    "refreshed_at_utc": "2026-11-26T06:13:02Z",
     "observation_date_utc": "2026-11-26",
-    "observation_type": "Front-month Brent crude futures intraday quotation",
-    "source_url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-c730426d",
-    "observation_time_note": "WSJ reports front-month Brent at $95.00/bbl, up 0.4%, in its 01:18 GMT November 26 market report; exact trade timestamp and contract month unspecified.",
+    "observation_type": "Brent crude futures intraday quotation",
+    "source_url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26/",
+    "observation_time_note": "Reuters reports Brent futures at $94.71/bbl, up 10 cents (0.1%), by 01:37 GMT November 26; timestamp confirmed in Reuters syndication by Business Standard. Contract month unspecified.",
     "contract_month": null
   },
   "cawthorne_tender": {
@@ -28,5 +28,5 @@
     "verified_date": "08 APR 2026"
   },
   "deployment_refresh_at_utc": "2026-11-23T23:49:54Z",
-  "terminal_status_date_chicago": "2026-11-25"
+  "terminal_status_date_chicago": "2026-11-26"
 }
