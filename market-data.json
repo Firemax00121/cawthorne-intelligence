@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "93.79",
+    "price": "94.96",
     "verified_date": "26 NOV",
     "source_label": "Reuters",
     "status_label": "INTRADAY · FUTURES",
-    "refreshed_at_utc": "2026-11-26T10:32:12Z",
+    "refreshed_at_utc": "2026-11-26T13:23:45Z",
     "observation_date_utc": "2026-11-26",
     "observation_type": "Brent crude futures intraday quotation",
     "source_url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26/",
-    "observation_time_note": "Reuters reports Brent futures at $93.79/bbl, down 82 cents (0.87%), at 09:39 GMT November 26. Contract month unspecified.",
+    "observation_time_note": "Reuters reports Brent futures at $94.96/bbl, up 35 cents (0.37%), at 12:11 GMT November 26. Contract month unspecified.",
     "contract_month": null
   },
   "cawthorne_tender": {
