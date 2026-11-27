@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "97.71",
+    "price": "97.30",
     "verified_date": "27 NOV",
     "source_label": "Reuters",
     "status_label": "INTRADAY · FUTURES",
-    "refreshed_at_utc": "2026-11-27T08:45:00Z",
+    "refreshed_at_utc": "2026-11-27T10:17:41Z",
     "observation_date_utc": "2026-11-27",
     "observation_type": "Brent crude futures intraday observation",
     "source_url": "https://www.reuters.com/business/energy/brent-trades-near-months-high-mideast-conflict-threatens-supply-2026-11-27/",
-    "observation_time_note": "Reuters reports $97.71/bbl at 0745 GMT November 27, up $1.14 or 1.2%. Contract month unspecified.",
+    "observation_time_note": "Reuters reports $97.30/bbl at 0935 GMT November 27, up $0.73 or 0.8%. Contract month unspecified. Reuters syndication: https://www.aol.com/articles/brent-trades-near-months-high-015047000.html",
     "contract_month": null
   },
   "cawthorne_tender": {
