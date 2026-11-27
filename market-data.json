@@ -1,14 +1,14 @@
 {
   "brent": {
-    "price": "96.57",
-    "verified_date": "26 NOV",
+    "price": "96.19",
+    "verified_date": "27 NOV",
     "source_label": "Reuters",
-    "status_label": "SETTLEMENT · FUTURES",
-    "refreshed_at_utc": "2026-11-26T20:04:00Z",
-    "observation_date_utc": "2026-11-26",
-    "observation_type": "Brent crude futures settlement",
-    "source_url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26/",
-    "observation_time_note": "Reuters reports Brent futures settled at $96.57/bbl on November 26. Exact settlement time and contract month unspecified. Reported percentage change omitted because inconsistent with reported dollar change.",
+    "status_label": "INTRADAY · FUTURES",
+    "refreshed_at_utc": "2026-11-27T03:43:11Z",
+    "observation_date_utc": "2026-11-27",
+    "observation_type": "Brent crude futures intraday observation",
+    "source_url": "https://www.reuters.com/business/energy/brent-trades-near-months-high-mideast-conflict-threatens-supply-2026-11-27/",
+    "observation_time_note": "Reuters reports $96.19/bbl at 0140 GMT November 27, down $0.38 or 0.39%. Contract month unspecified.",
     "contract_month": null
   },
   "cawthorne_tender": {
